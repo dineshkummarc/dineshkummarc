@@ -19,4 +19,5 @@ I'm a Software Engineer living and working in the North East of Capital City of 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dineshkummarc&count_private=true&show_icons=true)
 
-![My github stats](http://git-awards.com/users/search?login=dineshkummarc)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dineshkummarc)](https://github.com/anuraghazra/github-readme-stats)
+
