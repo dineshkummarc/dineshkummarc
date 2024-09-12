@@ -94,6 +94,4 @@ I manages the most number of Repositories with name like Phpmy<> repositories.</
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkummarc&show_icons=true&locale=en" alt="dineshkummarc" /></p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=dineshkummarc&count_private=true&show_icons=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkummarc&" alt="dineshkummarc" /></p>
