@@ -49,7 +49,7 @@
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a></br></p></br>
+<p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a></br></p>
 
 <h3 align="left">Statistics:</h3></br>
 <p><!-- <a href="https://ko-fi.com/dineshkummarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dineshkummarc" /></a>-->
