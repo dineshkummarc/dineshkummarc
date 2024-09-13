@@ -1,14 +1,12 @@
 <h3 align="center"> Hi there I'm Dineshkummarc 👋 </h3>
 <h3 align="center">Founder, Chief Test Architect @ RockIT</h3>
 
-<h5>I'm a Software Engineer living and working in the North East of Capital City of India. I currently work as a Senior Software Engineer and run my own one-man freelance Studio RockIT Hyperlocal Software Services.
-I manages the most number of Repositories with name like Phpmy<> repositories.</h5>
+<h5>I'm a Software Engineer living and working in the North East of Capital City of India. I currently work as a Senior Software Engineer and run my own one-man freelance Studio RockIT Hyperlocal Software Services. I manages the most number of Repositories with name like Phpmy<> repositories.</h5>
 
 - 📫 How to reach me **rockitsoftwareservice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
+<p align="left"><a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/rockit-hyperlocal-software-services/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/dineshkummarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dineshkummarc" height="30" width="40" /></a -->
 </p>
@@ -49,34 +47,6 @@ I manages the most number of Repositories with name like Phpmy<> repositories.</
 
 <h1>Work Experience</h1>
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
-
-<!--
-<h2>Software Engineer</h2>
-<p><strong>Terawe Corporation, Bangalore</strong><br>
-  <em>September 2021 – Present</em></p>
-
-<ul>
-  <li>Built web projects from scratch using React, Node.js, and Django, integrating with various Azure services to showcase Azure capabilities to clients.</li>
-  <li>Utilized the MUI component library to create responsive designs aligned with UX specifications, delivering visually appealing and user-friendly interfaces.</li>
-  <li>Proficient in managing state in React applications with Redux, optimizing complex data flows for efficient application performance.</li>
-  <li>Designed and implemented Azure cloud architectures, ensuring scalability, reliability, and security for web application deployments. Leveraged Azure FHIR to enable interoperability and compliance with healthcare industry standards.</li>
-  <li>Developed API endpoints using Node.js and Django, following industry standards and best practices to ensure robust and secure communication between front-end and back-end components.</li>
-  <li>Created Azure DevOps pipelines for streamlined deployment of web applications on Azure App Services and Functions Apps, automating release processes.</li>
-  <li>Proficient in working with various Azure services, including App Service, Function App, Cosmos DB (MongoDB), Storage Accounts, Azure Active Directory (AAD), Virtual Machines, Stream Analytics, Azure Container Registry (ACR), IoT Hub, Time Series Insights, Digital Twins, Cognitive Services, Azure Media Service, and Azure FHIR.</li>
-  <li>Applied Azure services to diverse industry use cases such as retail, manufacturing (windmill), healthcare, and electric vehicle charging, leveraging their functionalities to meet specific project requirements.</li>
-</ul>
-
-<h2>Junior Software Engineer</h2>
-<p><strong>Haloocom, Bangalore</strong><br>
-<em>February 2021 – September 2021</em></p>
-
-<ul>
-  <li>Integrated Azure cognitive services for real-time speech-to-text conversion of call recordings in a call center environment, enhancing data analysis capabilities.</li>
-  <li>Enhanced user experience by customizing the UI using React. Integrated the UI with a MySQL database through Django, ensuring seamless data management and improving overall functionality.</li>
-  <li>Created a voice bot using Asterisk VoIP, AGI, Google Dialogflow, and GCP APIs, automating call interactions and providing a seamless customer experience.</li>
-  <li>Integrated multiple APIs (WhatsApp, LeadSquared, SMS, mail services) into existing call center and CRM applications, optimizing communication channels and enabling efficient customer engagement.</li>
-</ul>
--->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a></br>
