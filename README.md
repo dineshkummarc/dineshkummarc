@@ -89,7 +89,9 @@ I manages the most number of Repositories with name like Phpmy<> repositories.</
 -->
 
 <h3 align="left">Support:</h3>
-<!-- <p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a><a href="https://ko-fi.com/dineshkummarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dineshkummarc" /></a></p><br><br> -->
+<p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a>
+<!-- <a href="https://ko-fi.com/dineshkummarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dineshkummarc" /></a>-->
+</p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshkummarc&show_icons=true&locale=en&layout=compact" alt="dineshkummarc" /></p>
 
