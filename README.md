@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<h1>Work Experience</h1>
+<h3>Work Experience</h3>
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
