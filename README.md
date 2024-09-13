@@ -57,33 +57,23 @@ I manages the most number of Repositories with name like Phpmy<> repositories.</
 
 <ul>
   <li>Built web projects from scratch using React, Node.js, and Django, integrating with various Azure services to showcase Azure capabilities to clients.</li>
-  
   <li>Utilized the MUI component library to create responsive designs aligned with UX specifications, delivering visually appealing and user-friendly interfaces.</li>
-  
   <li>Proficient in managing state in React applications with Redux, optimizing complex data flows for efficient application performance.</li>
-  
   <li>Designed and implemented Azure cloud architectures, ensuring scalability, reliability, and security for web application deployments. Leveraged Azure FHIR to enable interoperability and compliance with healthcare industry standards.</li>
-  
   <li>Developed API endpoints using Node.js and Django, following industry standards and best practices to ensure robust and secure communication between front-end and back-end components.</li>
-  
   <li>Created Azure DevOps pipelines for streamlined deployment of web applications on Azure App Services and Functions Apps, automating release processes.</li>
-  
   <li>Proficient in working with various Azure services, including App Service, Function App, Cosmos DB (MongoDB), Storage Accounts, Azure Active Directory (AAD), Virtual Machines, Stream Analytics, Azure Container Registry (ACR), IoT Hub, Time Series Insights, Digital Twins, Cognitive Services, Azure Media Service, and Azure FHIR.</li>
-  
   <li>Applied Azure services to diverse industry use cases such as retail, manufacturing (windmill), healthcare, and electric vehicle charging, leveraging their functionalities to meet specific project requirements.</li>
 </ul>
 
 <h2>Junior Software Engineer</h2>
 <p><strong>Haloocom, Bangalore</strong><br>
-  <em>February 2021 – September 2021</em></p>
+<em>February 2021 – September 2021</em></p>
 
 <ul>
   <li>Integrated Azure cognitive services for real-time speech-to-text conversion of call recordings in a call center environment, enhancing data analysis capabilities.</li>
-
   <li>Enhanced user experience by customizing the UI using React. Integrated the UI with a MySQL database through Django, ensuring seamless data management and improving overall functionality.</li>
-
   <li>Created a voice bot using Asterisk VoIP, AGI, Google Dialogflow, and GCP APIs, automating call interactions and providing a seamless customer experience.</li>
-
   <li>Integrated multiple APIs (WhatsApp, LeadSquared, SMS, mail services) into existing call center and CRM applications, optimizing communication channels and enabling efficient customer engagement.</li>
 </ul>
 -->
