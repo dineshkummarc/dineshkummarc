@@ -49,40 +49,40 @@ I manages the most number of Repositories with name like Phpmy<> repositories.</
 
 <h1>Work Experience</h1>
 
-ORGANIZATION: Mphasis
+<p>ORGANIZATION: Mphasis
 Job Profile: Senior Software Engineer - Systems 
 Job Type: Permanent 
-Duration: 01 June 2018 till the Date
+Duration: 01 June 2018 till the Date</p>
 
-ORGANIZATION: Stratosphere IT Services 
+<p>ORGANIZATION: Stratosphere IT Services 
 Job Profile: Senior Software Engineer 
 Job Type: Contract2Hire (for Mphasis) 
-Duration: 03 Aug 2017 till 31 May 2018
+Duration: 03 Aug 2017 till 31 May 2018</p>
 
-ORGANIZATION: PICKJI, Gurgaon 
+<p>ORGANIZATION: PICKJI, Gurgaon 
 Job Profile: Principal Test Engineer 
 Job Type: Permanent 
-Duration: 02 Nov 2016 till 17 July 2017
+Duration: 02 Nov 2016 till 17 July 2017</p>
 
-ORGANIZATION: NerdAppLabs Software Solutions Private Limited, Noida 
+<p>ORGANIZATION: NerdAppLabs Software Solutions Private Limited, Noida 
 Job Profile: Test Engineer 
 Job Type: Permanent 
-Duration: 18 Feb 2015 to 31 Oct 2016
+Duration: 18 Feb 2015 to 31 Oct 2016</p>
 
-ORGANIZATION: SDIL – Software Data (India) Ltd., New Delhi 
+<p>ORGANIZATION: SDIL – Software Data (India) Ltd., New Delhi 
 Job Profile: Associate QA L2 – Manual and Mobile Apps 
 Job Type: Contract2Hire (for SapientNitro) 
-Duration: 03 September 2014 to 12 Dec 2014
+Duration: 03 September 2014 to 12 Dec 2014</p>
 
-ORGANIZATION: AmSoft Systems Pvt. Ltd., Gurgaon
+<p>ORGANIZATION: AmSoft Systems Pvt. Ltd., Gurgaon
 Job Profile: QA Engineer 
 Job Type: Permanent 
-Duration: 19 May 2010 to 31 July 2014
+Duration: 19 May 2010 to 31 July 2014</p>
 
-ORGANIZATION: Choudhary & Sons Departmental Store, Delhi 
+<p>ORGANIZATION: Choudhary & Sons Departmental Store, Delhi 
 Job Profile: Co-Owner/Business Analyst 
 Job Type: Permanent 
-Duration: 01 June 2008 to 15 May 2010
+Duration: 01 June 2008 to 15 May 2010</p>
 
 <!--
 <h2>Software Engineer</h2>
