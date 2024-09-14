@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there I'm Dineshkummarc 👋 Founder, Chief Test Architect @ RockIT</h3>
+<h3 align="center"> Hi there I'm Dineshkummarc 👋 Founder, Chief Test Architect @ RockIT Hyperlocal Software Services</h3>
 
 <h5>I'm a Software Engineer living and working in the North East of Capital City of India. I currently work as a Senior Software Engineer and run my own one-man freelance Studio RockIT Hyperlocal Software Services. I manages the most number of Repositories with name like Phpmy<> repositories.</h5>
 
