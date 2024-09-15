@@ -4,6 +4,32 @@
 
 - 📫 How to reach me **rockitsoftwareservice@gmail.com**
 
+RockIT Hyperlocal Software Services (ROCKIT, RHS) is a digital product based truly garage startup, where we create IT solutions for business and government. We design and develop software for all complexity levels. We transform customer ideas (from startups to corporations) into a finished product.
+
+What we do:
+We create digital solution on-demand based on our experience and industries' best practices.
+
+Mobile Apps (iOS / Android)
+Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+
+Web Apps Development
+Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+
+Desktop Apps Development
+Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+
+Smart Solutions
+Business Analysis • Development • Implementation Support
+
+QA and Reviews
+Business Analysis • Deployment • Testing • Support
+
+Videography and Editing
+Business Analysis • Deployment • Editing • Support
+
+Industry
+Technology, Information and Media
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/rockit-hyperlocal-software-services/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
