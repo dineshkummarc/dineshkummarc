@@ -33,7 +33,7 @@ Technology, Information and Media
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/rockit-hyperlocal-software-services/?viewAsMember=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/dineshkummarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dineshkummarc" height="30" width="40" /></a -->
+<a href="https://stackoverflow.com/users/1021832/denno-secqtinstien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dineshkummarc" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkummarc&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkummarc" /> </p>
