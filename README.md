@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **rockitsoftwareservice@gmail.com**
 
-RockIT Hyperlocal Software Services (ROCKIT, RHS) is a digital product based truly garage startup, where we create IT solutions for business and government. We design and develop software for all complexity levels. We transform customer ideas (from startups to corporations) into a finished product.
+RHS is a digital product based truly garage startup, where we create IT solutions for business and government. We design and develop software for all complexity levels. We transform customer ideas (from startups to corporations) into a finished product.
 
 What we do:
 We create digital solution on-demand based on our experience and industries' best practices.
