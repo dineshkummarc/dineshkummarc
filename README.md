@@ -10,7 +10,17 @@ What we do:
 We create digital solution on-demand based on our experience and industries' best practices.
 
 <table>
-  <tr>
+<tr>
+<th>Type of Service</th>
+<td>Step 1 </td>
+<td>Step 2 </td>
+<td>Step 3 </td>
+<td>Step 4 </td>
+<td>Step 5 </td>
+<td>Step 6 </td>
+</tr>
+
+<tr>
 <th>Mobile Apps (iOS / Android)</th>
 <td>Business Analysis </td>
 <td>• Customer Journey Mapping </td>
