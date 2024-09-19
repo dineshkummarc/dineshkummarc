@@ -135,6 +135,9 @@ We create digital solution on-demand based on our experience and industries' bes
   </tr>
 </table>
 
+<h3>get in touch</h3>
+please take a moment to check <a href='http://rockit.rf.gd/?i=1'>RHS Services</a> for our services, view, vision and other opportunities.
+
 <h3>Work Experience</h3>
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 
