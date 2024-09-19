@@ -21,19 +21,48 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>Web Apps Development</th>
-<td>Business Analysis </td><td>• Customer Journey Mapping </td><td>• UX/UI </td><td>• Development </td><td>• Testing </td><td>• Launch</td></tr>
+<td>Business Analysis </td>
+<td>• Customer Journey Mapping </td>
+<td>• UX/UI </td>
+<td>• Development </td>
+<td>• Testing </td>
+<td>• Launch</td>
+</tr>
 
 <tr><th>Desktop Apps Development</th>
-<td>Business Analysis </td><td>• Customer Journey Mapping </td><td>• UX/UI </td><td>• Development </td><td>• Testing </td><td>• Launch</td></tr>
+<td>Business Analysis </td>
+<td>• Customer Journey Mapping </td>
+<td>• UX/UI </td>
+<td>• Development </td>
+<td>• Testing </td>
+<td>• Launch</td>
+</tr>
 
 <tr><th>Smart Solutions</th>
-<td>Business Analysis </td><td> </td><td> </td><td>• Development </td><td>• Implementation </td><td>•Support</td></tr>
+<td>Business Analysis </td>
+<td> </td>
+<td> </td>
+<td>• Development </td>
+<td>• Implementation </td>
+<td>•Support</td>
+</tr>
 
 <tr><th>QA and Reviews</th>
-<td>Business Analysis </td><td> </td><td> </td><td>• Deployment </td><td>• Testing </td><td>• Support</td></tr>
+<td>Business Analysis </td>
+<td> </td>
+<td> </td>
+<td>• Deployment </td>
+<td>• Testing </td>
+<td>• Support</td>
+</tr>
 
 <tr><th>Videography and Editing</th>
-<td>Business Analysis </td><td> </td><td> </td><td>• Deployment </td><td>• Editing </td><td>• Support</td>
+<td>Business Analysis </td>
+<td> </td>
+<td> </td>
+<td>• Deployment </td>
+<td>• Editing </td>
+<td>• Support</td>
 </tr>
 </table>
 
