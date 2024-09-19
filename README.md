@@ -93,7 +93,7 @@ We create digital solution on-demand based on our experience and industries' bes
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkummarc&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkummarc" /> </p>
 
-<h3 align="left">Github Trophies:</h3>
+<h3 align="left">Github Achievements:</h3>
 <p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshkummarc" alt="dineshkummarc" /></a></p>
 
 <h3 align="left">Languages and Tools, RHS is working:</h3>
@@ -136,7 +136,7 @@ We create digital solution on-demand based on our experience and industries' bes
   </tr>
 </table>
 
-<h3>Work Experience</h3>
+<h3>Work Experience:</h3>
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
