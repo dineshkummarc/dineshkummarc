@@ -30,10 +30,10 @@ We create digital solution on-demand based on our experience and industries' bes
 <td>Business Analysis </td><td> </td><td> </td><td>• Development </td><td>• Implementation </td><td>•Support</td></tr>
 
 <tr><th>QA and Reviews</th>
-<td>Business Analysis </td><td>• Deployment </td><td>• Testing </td><td>• Support</td></tr>
+<td>Business Analysis </td><td> </td><td> </td><td> </td><td> </td><td>• Deployment </td><td>• Testing </td><td>• Support</td></tr>
 
 <tr><th>Videography and Editing</th>
-<td>Business Analysis </td><td>• Deployment </td><td>• Editing </td><td>• Support</td></tr>
+<td>Business Analysis </td><td> </td><td> </td><td>• Deployment </td><td>• Editing </td><td>• Support</td></tr>
 
 <tr><th>Industry</th>
 <td>Technology, Information and Media</td>
