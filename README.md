@@ -11,15 +11,15 @@ We create digital solution on-demand based on our experience and industries' bes
 
 <table>
   <tr>
-    <th>
-Mobile Apps (iOS / Android)</th>
+<th>Mobile Apps (iOS / Android)</th>
 <td>Business Analysis </td>
 <td>• Customer Journey Mapping </td>
 <td>• UX/UI </td>
 <td>• Development </td>
 <td>• Testing </td>
 <td>• Launch</td>
-</br>
+</tr>
+
 <th>Web Apps Development</th>
 <td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
 
