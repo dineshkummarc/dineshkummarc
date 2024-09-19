@@ -147,5 +147,5 @@ We create digital solution on-demand based on our experience and industries' bes
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkummarc&show_icons=true&locale=en" alt="dineshkummarc" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkummarc&" alt="dineshkummarc" /></p>
 
-<h3>get in touch</h3>
+<h3>Get in touch:</h3>
 <p>please take a moment to check <a href='http://rockit.rf.gd/?i=1'>RHS Services</a> for our services, view, vision and other opportunities.</p>
