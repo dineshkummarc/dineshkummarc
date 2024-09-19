@@ -93,6 +93,7 @@ We create digital solution on-demand based on our experience and industries' bes
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkummarc&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkummarc" /> </p>
 
+<h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshkummarc" alt="dineshkummarc" /></a></p>
 
 <h3 align="left">Languages and Tools, RHS is working:</h3>
