@@ -19,7 +19,7 @@ Mobile Apps (iOS / Android)</th>
 <td>• Development </td>
 <td>• Testing </td>
 <td>• Launch</td>
-
+</br>
 <th>Web Apps Development</th>
 <td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
 
