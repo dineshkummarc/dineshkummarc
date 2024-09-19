@@ -27,13 +27,13 @@ We create digital solution on-demand based on our experience and industries' bes
 <td>Business Analysis </td><td>• Customer Journey Mapping </td><td>• UX/UI </td><td>• Development </td><td>• Testing </td><td>• Launch</td></tr>
 
 <tr><th>Smart Solutions</th>
-<td>Business Analysis • Development • Implementation Support</td></tr>
+<td>Business Analysis </td><td>• Development </td><td>• Implementation Support</td></tr>
 
 <tr><th>QA and Reviews</th>
-<td>Business Analysis • Deployment • Testing • Support</td></tr>
+<td>Business Analysis </td><td>• Deployment </td><td>• Testing </td><td>• Support</td></tr>
 
 <tr><th>Videography and Editing</th>
-<td>Business Analysis • Deployment • Editing • Support</td></tr>
+<td>Business Analysis </td><td>• Deployment </td><td>• Editing </td><td>• Support</td></tr>
 
 <tr><th>Industry</th>
 <td>Technology, Information and Media</td>
