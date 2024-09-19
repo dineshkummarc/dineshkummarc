@@ -22,7 +22,7 @@ We create digital solution on-demand based on our experience and industries' bes
 
 <tr>
 <th>Mobile Apps (iOS / Android)</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td>• Customer Journey Mapping </td>
 <td>• UX/UI </td>
 <td>• Development </td>
@@ -31,7 +31,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>Web Apps Development</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td>• Customer Journey Mapping </td>
 <td>• UX/UI </td>
 <td>• Development </td>
@@ -40,7 +40,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>Desktop Apps Development</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td>• Customer Journey Mapping </td>
 <td>• UX/UI </td>
 <td>• Development </td>
@@ -49,7 +49,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>Smart Solutions</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td> </td>
 <td> </td>
 <td>• Development </td>
@@ -58,7 +58,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>QA and Reviews</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td> </td>
 <td> </td>
 <td>• Deployment </td>
@@ -67,7 +67,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </tr>
 
 <tr><th>Videography and Editing</th>
-<td>Business Analysis </td>
+<td>•Business Analysis </td>
 <td> </td>
 <td> </td>
 <td>• Deployment </td>
