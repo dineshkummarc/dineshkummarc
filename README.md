@@ -110,7 +110,7 @@ We create digital solution on-demand based on our experience and industries' bes
 
 <table>
   <tr>
-    <th>Programming Languages, admired by me</th>
+    <th>Programming Languages, i admire most</th>
     <td>Php, JavaScript, TypeScript, HTML5, CSS</td>
   </tr>
  <!--  <tr>
