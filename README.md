@@ -9,26 +9,31 @@ RHS is a digital product based truly garage startup, where we create IT solution
 What we do:
 We create digital solution on-demand based on our experience and industries' best practices.
 
-Mobile Apps (iOS / Android)
-Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+<table>
+  <tr>
+    <th>
+Mobile Apps (iOS / Android)</th>
+<td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
 
-Web Apps Development
-Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+<th>Web Apps Development</th>
+<td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
 
-Desktop Apps Development
-Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch
+<th>Desktop Apps Development</th>
+<td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
 
-Smart Solutions
-Business Analysis • Development • Implementation Support
+<th>Smart Solutions</th>
+<td>Business Analysis • Development • Implementation Support</td>
 
-QA and Reviews
-Business Analysis • Deployment • Testing • Support
+<th>QA and Reviews</th>
+<td>Business Analysis • Deployment • Testing • Support</td>
 
-Videography and Editing
-Business Analysis • Deployment • Editing • Support
+<th>Videography and Editing</th>
+<td>Business Analysis • Deployment • Editing • Support</td>
 
-Industry
-Technology, Information and Media
+<th>Industry</th>
+<td>Technology, Information and Media</td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
