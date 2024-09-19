@@ -20,8 +20,8 @@ We create digital solution on-demand based on our experience and industries' bes
 <td>• Launch</td>
 </tr>
 
-<th>Web Apps Development</th>
-<td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
+<tr><th>Web Apps Development</th>
+<td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td></tr>
 
 <th>Desktop Apps Development</th>
 <td>Business Analysis • Customer Journey Mapping • UX/UI • Development • Testing • Launch</td>
