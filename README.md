@@ -139,13 +139,13 @@ We create digital solution on-demand based on our experience and industries' bes
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rockit-hyperlocal-software-services" height="30" width="40" /></a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dineshkummarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a></br></p>
+<p><a href="https://www.buymeacoffee.com/dineshkummarc" target="blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dineshkummarc" /></a></br></p>
 </br>
 <h3 align="left">Statistics:</h3>
-<p><!-- <a href="https://ko-fi.com/dineshkummarc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dineshkummarc" /></a>-->
+<p><!-- <a href="https://ko-fi.com/dineshkummarc" target="blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dineshkummarc" /></a>-->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshkummarc&show_icons=true&locale=en&layout=compact" alt="dineshkummarc" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkummarc&show_icons=true&locale=en" alt="dineshkummarc" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkummarc&show_icons=true&locale=en" alt="dineshkummarc" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkummarc&" alt="dineshkummarc" /></p>
 
 <h3>Get in touch:</h3>
-<p>please take a moment to check <a href='http://rockit.rf.gd/?i=1'>RHS Services</a> for our services, view, vision and other opportunities.</p>
+<p>please take a moment to check <a href='http://rockit.rf.gd/?i=1' target="blank">RHS Services</a> for our services, view, vision and other opportunities.</p>
