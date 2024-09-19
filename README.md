@@ -94,9 +94,11 @@ We create digital solution on-demand based on our experience and industries' bes
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkummarc&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkummarc" /> </p>
 
 <h3 align="left">Github Achievements:</h3>
-<p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshkummarc" alt="dineshkummarc" /></a></p>
 <p align="left"> <a href="https://github.com/dineshkummarc?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="dineshkummarc" width="40" height="40" /></a>
 <a href="https://github.com/dineshkummarc?tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="dineshkummarc" width="40" height="40" /></a></p>
+
+<h3 align="left">Github Trophies:</h3>
+<p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshkummarc" alt="dineshkummarc" /></a></p>
 
 <h3 align="left">Languages and Tools, RHS is working:</h3>
 
