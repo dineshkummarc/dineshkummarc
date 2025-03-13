@@ -2,7 +2,7 @@
 
 <h5>I'm a Software Engineer living and working in the North East of Capital City of India. I currently work as a Senior Software Engineer 
   <!-- (Basically a Freelance Test Architect) and run my own freelance Studio <a href='http://rockit.rf.gd/?i=1'>RHS Services</a>.--> I manages the most number of Repositories with name like Phpmy<> repositories.</h5>
-
+<!--
 - 📫 How to reach me **rockitsoftwareservice@gmail.com**
 
 RHS is a digital product based truly garage startup, where we create IT solutions for business and government. We design and develop software for all complexity levels. We transform customer ideas (from startups to corporations) into a finished product.
@@ -76,7 +76,7 @@ We create digital solution on-demand based on our experience and industries' bes
 <td>Support</td>
 </tr>
 </table>
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://x.com/yashanyketshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshkummarc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dinesh-kumar-ab9b3621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshkummarc" height="30" width="40" /></a>
