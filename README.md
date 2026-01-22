@@ -101,7 +101,7 @@ We create digital solution on-demand based on our experience and industries' bes
 </p>
 
 <h3 align="left">Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshkummarc" alt="dineshkummarc" /></a></p>
+<p align="left"> <a href="https://github.com/dineshkummarc/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=dineshkummarc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="dineshkummarc" /></a></p>
 
 <h3 align="left">Languages and Tools, RHS is working:</h3>
 
